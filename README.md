@@ -42,5 +42,8 @@ It will tigger a simple javascript **alert()** instead of a notification.
 - Did not have enough time to implement a full test coverage
 - Execption tests not correctly implemented. The test for when an invalid city is entered is 
 not passing.
+
+- List of cities for the drop down are hardcoded, with enough time this should be moved to an API call and cached on
+the frontend 
  
 
