@@ -27,7 +27,7 @@ WEATHERAPI_BASEURL=http://api.weatherapi.com/v1
 ``php artisan serve``
 
 ## Running the console command 
-`` php artisan weather:report paris,brisbane,paris,Melbourne,Sydney``
+`` php artisan weather:report "paris,brisbane,paris,Melbourne,Sydney"``
 
 ## Running tests
 `` ./vendor/bin/phpunit``
