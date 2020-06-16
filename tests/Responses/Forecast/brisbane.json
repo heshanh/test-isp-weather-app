@@ -1,0 +1,153 @@
+{
+    "location": {
+        "name": "Brisbane",
+        "region": "Queensland",
+        "country": "Australia",
+        "lat": -27.5,
+        "lon": 153.02,
+        "tz_id": "Australia/Brisbane",
+        "localtime_epoch": 1592219796,
+        "localtime": "2020-06-15 21:16"
+    },
+    "current": {
+        "last_updated_epoch": 1592219709,
+        "last_updated": "2020-06-15 21:15",
+        "temp_c": 18.0,
+        "temp_f": 64.4,
+        "is_day": 0,
+        "condition": {
+            "text": "Partly cloudy",
+            "icon": "//cdn.weatherapi.com/weather/64x64/night/116.png",
+            "code": 1003
+        },
+        "wind_mph": 5.6,
+        "wind_kph": 9.0,
+        "wind_degree": 190,
+        "wind_dir": "S",
+        "pressure_mb": 1022.0,
+        "pressure_in": 30.7,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 83,
+        "cloud": 25,
+        "feelslike_c": 18.0,
+        "feelslike_f": 64.4,
+        "vis_km": 10.0,
+        "vis_miles": 6.0,
+        "uv": 1.0,
+        "gust_mph": 6.5,
+        "gust_kph": 10.4
+    },
+    "forecast": {
+        "forecastday": [
+            {
+                "date": "2020-06-15",
+                "date_epoch": 1592179200,
+                "day": {
+                    "maxtemp_c": 23.4,
+                    "maxtemp_f": 74.1,
+                    "mintemp_c": 16.5,
+                    "mintemp_f": 61.7,
+                    "avgtemp_c": 19.4,
+                    "avgtemp_f": 67.0,
+                    "maxwind_mph": 5.6,
+                    "maxwind_kph": 9.0,
+                    "totalprecip_mm": 0.0,
+                    "totalprecip_in": 0.0,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 70.0,
+                    "daily_will_it_rain": 0,
+                    "daily_chance_of_rain": "0",
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": "0",
+                    "condition": {
+                        "text": "Partly cloudy",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/116.png",
+                        "code": 1003
+                    },
+                    "uv": 4.3
+                },
+                "astro": {
+                    "sunrise": "06:36 AM",
+                    "sunset": "05:01 PM",
+                    "moonrise": "12:53 AM",
+                    "moonset": "01:12 PM"
+                }
+            },
+            {
+                "date": "2020-06-16",
+                "date_epoch": 1592265600,
+                "day": {
+                    "maxtemp_c": 21.6,
+                    "maxtemp_f": 70.9,
+                    "mintemp_c": 14.7,
+                    "mintemp_f": 58.5,
+                    "avgtemp_c": 17.7,
+                    "avgtemp_f": 63.8,
+                    "maxwind_mph": 7.4,
+                    "maxwind_kph": 11.9,
+                    "totalprecip_mm": 0.4,
+                    "totalprecip_in": 0.02,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 74.0,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": "88",
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": "0",
+                    "condition": {
+                        "text": "Patchy rain possible",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png",
+                        "code": 1063
+                    },
+                    "uv": 4.2
+                },
+                "astro": {
+                    "sunrise": "06:36 AM",
+                    "sunset": "05:01 PM",
+                    "moonrise": "01:44 AM",
+                    "moonset": "01:43 PM"
+                }
+            },
+            {
+                "date": "2020-06-17",
+                "date_epoch": 1592352000,
+                "day": {
+                    "maxtemp_c": 21.5,
+                    "maxtemp_f": 70.7,
+                    "mintemp_c": 14.6,
+                    "mintemp_f": 58.3,
+                    "avgtemp_c": 17.6,
+                    "avgtemp_f": 63.7,
+                    "maxwind_mph": 11.6,
+                    "maxwind_kph": 18.7,
+                    "totalprecip_mm": 0.5,
+                    "totalprecip_in": 0.02,
+                    "avgvis_km": 10.0,
+                    "avgvis_miles": 6.0,
+                    "avghumidity": 70.0,
+                    "daily_will_it_rain": 1,
+                    "daily_chance_of_rain": "84",
+                    "daily_will_it_snow": 0,
+                    "daily_chance_of_snow": "0",
+                    "condition": {
+                        "text": "Moderate rain at times",
+                        "icon": "//cdn.weatherapi.com/weather/64x64/day/299.png",
+                        "code": 1186
+                    },
+                    "uv": 3.5
+                },
+                "astro": {
+                    "sunrise": "06:36 AM",
+                    "sunset": "05:01 PM",
+                    "moonrise": "02:36 AM",
+                    "moonset": "02:14 PM"
+                }
+            }
+        ]
+    },
+    "alert": {
+
+    }
+}
